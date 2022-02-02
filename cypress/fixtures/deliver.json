@@ -1,0 +1,86 @@
+{
+    "signup" : {
+        "name": "vinicius", 
+        "cpf": "32141241224",
+        "email": "neymar@gmail.com",
+        "whatsapp": "61996969696",
+        "postalcode": "71981360",
+
+        "address": {
+            "street": "QS 11 Conjunto P",
+            "number": "42",
+            "details": "Lograduro",
+            "district": "Areal (Águas Claras)",
+            "city_state": "Brasília/DF"
+            },
+
+            "delivery_method": "Moto", 
+            "cnh": "/img/cnh-digital.jpg"
+    },
+
+    "signupBike": {
+        "name": "Freitas", 
+        "cpf": "00100200304",
+        "email": "Junior@gmail.com",
+        "whatsapp": "61996969696",
+        "postalcode": "01306040",
+        "address": {
+            "number": "42",
+            "details": "Lograduro"
+            },
+
+            "delivery_method": "Moto", 
+            "cnh": "/img/cnh-digital.jpg"
+    },
+
+    "email_incorreto":{
+        "name": "Luiz", 
+        "cpf": "32141241224",
+        "email": "LUIZDROGADO.gmail.com",
+        "whatsapp": "61996969696",
+        "postalcode": "01306040",
+
+        "address": {
+            "street": "Rua Martinho Prado",
+            "number": "22",
+            "details": "Lograduro",
+            "district": "Bela Vista",
+            "city_state": "São Paulo/SP"
+            },
+
+            "delivery_method": "Moto", 
+            "cnh": "/img/cnh-digital.jpg"
+    },
+
+    "cpf_incorreto":{
+        "name": "Junior", 
+        "cpf": "X5XB141241224",
+        "email": "neymarJunior@gmail.com",
+        "whatsapp": "61996969696",
+        "postalcode": "71981360",
+
+        "address": {
+            "street": "QS 11 Conjunto P",
+            "number": "42",
+            "details": "Lograduro",
+            "district": "Areal (Águas Claras)",
+            "city_state": "Brasília/DF"
+            },
+
+            "delivery_method": "Moto", 
+            "cnh": "/img/cnh-digital.jpg"
+    },
+
+    "cep_incorreto":{       
+            "name": "vinicius", 
+            "cpf": "3214124A2S24",
+            "email": "neymar@gmail.com",
+            "whatsapp": "61996969696",
+            "postalcode": "A4B1460??"
+
+    
+     }
+
+        
+    
+}
